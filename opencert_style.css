@@ -1,0 +1,158 @@
+body{
+	font-family: Times New Roman;
+        background-color: #bbffff
+}
+
+body.home{
+        background-image: url(marsa.jpg);
+        background-repeat: no-repeat
+}
+
+a.link {
+   font-family: Times New Roman;
+   color:  #006655;
+   text-decoration: underline
+}
+
+a.biglink {
+   font-family: Times New Roman;
+   color:  #006655;
+   font-size: 16pt;
+   text-decoration: underline
+}
+
+#big-bright-on-dark {
+        color: #ffffff;
+        background-color: #006655;
+        font-size: 16pt;
+        font-weight: bold
+}
+
+#bright-on-dark {
+        color: #ffffff;
+        background-color: #006655;
+        font-size: 14pt;
+        font-weight: bold
+}
+
+#small-bright-on-dark {
+        color: #ffffff;
+        background-color: #006655;
+        font-size: 10pt;
+        font-weight: bold
+}
+
+#small-grey-on-dark {
+        color: #cccccc;
+        background-color: #006655;
+        font-size: 10pt;
+        font-weight: bold
+}
+
+#small-red-on-dark {
+        color: #dd0000;
+        font-size: 10pt;
+        font-weight: bold
+}
+
+#small-dark-on-bright {
+        color: #006655;
+        background-color: #bbffff;
+        font-size: 10pt;
+        font-weight: bold
+}
+
+#big-dark {
+        color: #006655;
+        font-size: 20pt;
+        font-weight: bold
+}
+
+#dark {
+        color: #006655;
+        font-size: 14pt;
+        font-weight: bold
+}
+
+#black {
+        color: #000000;
+        font-size: 14pt;
+        font-weight: bold
+}
+
+#small-dark {
+        color: #006655;
+        font-size: 12pt;
+        font-weight: bold
+}
+
+#small-black {
+        color: #000000;
+        font-size: 12pt;
+        font-weight: bold
+}
+
+p.text, ul.text, ol.text, dl.text, td.text {
+        color: #000000;
+        font-size: 10pt;
+}
+
+strong.text  {
+        color: #000000;
+        font-size: 10pt;
+        font-weight: bold
+}
+
+strong.very  {
+        color: #006655;
+}
+
+p.big, ul.big, td.big  {
+        color: #000000;
+        font-size: 14pt;
+        font-weight: bold
+}
+
+td.menu-link {
+        background-color: #006655;
+        font-size: 12pt;
+        font-weight: bold
+}
+
+a.menu-link {
+        color: #ffffff;
+}
+
+td.menu-curr {
+        color: #fcff88;
+        background-color: #006655;
+        font-size: 12pt;
+        font-weight: bold
+}
+
+td.menu-next {
+        color: #aa0000;
+        background-color: #006655;
+        font-size: 12pt;
+        font-weight: bold
+}
+
+td.menu-past {
+        background-color: #006655;
+        font-size: 12pt;
+        font-weight: bold
+}
+
+a.menu-past {
+        color: #cccccc;
+}
+
+td.menu-spec {
+        background-color: #bbffff;
+        font-size: 12pt;
+        font-weight: bold
+}
+
+a.menu-spec {
+        color: #006655;
+}
